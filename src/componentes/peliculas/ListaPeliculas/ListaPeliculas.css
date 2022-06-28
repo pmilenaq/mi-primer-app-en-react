@@ -1,0 +1,13 @@
+.lista-peliculas {
+
+	display: grid;
+	grid-template-columns: repeat(auto-fill, 230px);
+	gap: 20px;
+	padding: 20px;
+	justify-content: center;
+}
+
+.lista-peliculas>div {
+	margin: 5px;
+	width: 200px;
+}

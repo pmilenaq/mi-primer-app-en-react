@@ -1,0 +1,13 @@
+.pelicula-pagina {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 40px;
+}
+
+.pelicula-pagina-descripcion {
+    text-align: left;
+}
+
+
+
